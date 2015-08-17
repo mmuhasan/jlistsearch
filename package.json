@@ -4,6 +4,7 @@
   "description": "A qucik and easy to implement jQuery plugin for search a list of item from a ul-li list with a callback function option for select a list item.",
   "keywords": [
     "jquery-plugins",
+    "ecosystem:jquery",
     "list-search",
     "autocomplete",
     "search-li"
@@ -27,8 +28,7 @@
   ],
   "bugs": "https://github.com/mmuhasan/jlistsearch/issues",
   "homepage": "https://github.com/mmuhasan/jlistsearch",
-  "docs": "https://github.com/mmuhasan/jlistsearch",
-  "download": "https://github.com/mmuhasan/jlistsearch/archive/master.zip",
+  "repository": "https://github.com/mmuhasan/jlistsearch",
   "dependencies": {
     "jquery": ">=1.11"
   }
